@@ -195,6 +195,7 @@ body .back-smart .smart .screen .system-curtain .row {
 }
 body .back-smart .smart .screen .system-curtain .row .time {
   font-size: 9px;
+  font-weight: 400;
 }
 body .back-smart .smart .screen .system-curtain .row .music {
   width: 10px;
@@ -205,6 +206,7 @@ body .back-smart .smart .screen .system-curtain .row .music {
 }
 body .back-smart .smart .screen .system-curtain .row .charge {
   font-size: 9px;
+  font-weight: 400;
 }
 body .back-smart .smart .screen .system-curtain .row .charge span {
   margin-left: 2px;
